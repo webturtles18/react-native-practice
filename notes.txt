@@ -1,0 +1,17 @@
+26-12-2023
+==========
+List of permissions here 
+https://reactnative.dev/docs/permissionsandroid
+
+Practice and trying to access geo location information
+==> Using react-native-geolocation-service:
+
+
+npm install @react-native-community/geolocation
+
+Step 1: Add permissions to AndroidManifest.xml
+In your app’s AndroidManifest.xml file, add the following permissions:
+
+dd permissions to AndroidManifest.xml
+android\app\src\main\AndroidManifest.xml
+
